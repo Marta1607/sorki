@@ -1,0 +1,13 @@
+.div-cennik{
+    background-color: black;
+    width: 90%;
+    margin: auto;
+    color: white;
+}
+.cenniki{
+    color: white;
+}
+#grid{
+    display: grid;
+    grid-template-columns: auto auto;
+}
